@@ -1,3 +1,6 @@
+# Author: Dev Not F Leaving (https://x.com/devnotfleavin)
+# License: MIT License - See LICENSE file for details.
+
 import pandas as pd
 import numpy as np
 import yfinance as yf
